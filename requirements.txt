@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+bcrypt
+pillow
+numpy
+requests
+streamlit-lottie
+streamlit-option-menu
+psycopg2
